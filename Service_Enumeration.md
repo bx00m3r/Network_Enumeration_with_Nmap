@@ -145,7 +145,7 @@ sudo tcpdump -i eth0 host 10.10.14.2 and 10.129.2.28
 Perform in Module Specific Lab for better understanding!
 
 Q) Enumerate all ports and their services. One of the services contains the flag you have to submit as the answer.
-`Answer: `
+`Answer: HTB{pr0F7pDv3r510nb4nn3r}`
 
 ---
 
