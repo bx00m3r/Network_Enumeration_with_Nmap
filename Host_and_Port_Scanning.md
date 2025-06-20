@@ -154,3 +154,18 @@ Nmap uses various service probes to fingerprint running versions, including `NUL
 Read more about advanced port scanning techniques in the official Nmap documentation:
 
 ➡️ [https://nmap.org/book/man-port-scanning-techniques.html](https://nmap.org/book/man-port-scanning-techniques.html)
+
+---
+
+Questions
+
+Try it out in the HTB Academy Module specific Lab.
+Answer the question(s) below to complete this Section!
+
+✅ Find all TCP ports on your target. Submit the total number of found TCP ports as the answer.
+`Answer: 7`
+
+✅ Enumerate the hostname of your target and submit it as the answer. (case-sensitive)
+`Answer: nix-nmap-default`
+
+---
